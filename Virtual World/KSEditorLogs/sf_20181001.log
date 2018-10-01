@@ -1,0 +1,7 @@
+2018-10-01 18:51:33.2968 [DEBUG] Scene Fusion version 1.8.1-0
+2018-10-01 18:51:33.3088 [INFO] Setting define symbol SCENE_FUSION
+2018-10-01 18:51:40.8811 [DEBUG] Scene Fusion version 1.8.1-0
+2018-10-01 18:51:49.6046 [DEBUG] Invalid token sent as part of a web request token. Token = 05Mm4tOpSxoO2IQicn1qlL8dkdzl7MFWxJbFEaUJDHKPsfqMrZRXmouMs3rqUcKjcc4fzZUXpwTGWjCM8glY0pBC0WCemeLkLpOKKmzsbJEfuUfdIOfelaZcScfK2gBjUBiuH5hEglFOjbupxhB8Qd6sRyUMigaO532b1XII8BKJqqYJK3mKCUm2UkDmLBUcqfwfUkNo67DBjnMe1nBodzLjztGns8i4dcY8Ht7iQyiS30Sa5bf7h3AynFcu1HQ
+2018-10-01 18:54:16.5143 [INFO] Launching Session: SampleScene
+2018-10-01 18:54:17.7537 [DEBUG] Connecting
+2018-10-01 18:54:17.7717 [DEBUG] Connecting to room (82827:SceneFusion:SceneFusion) via TCP at ec2-52-43-42-38.us-west-2.compute.amazonaws.com:1083
