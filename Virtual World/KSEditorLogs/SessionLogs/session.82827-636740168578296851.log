@@ -19,3 +19,8 @@
 2018-10-01 18:54:21.9334 [DEBUG] Uploading scene 'SampleScene'
 2018-10-01 18:54:21.9804 [DEBUG] Spawn request. (Objects: 2)
 2018-10-01 18:54:22.2342 [DEBUG] Loading complete
+2018-10-01 19:07:11.9725 [DEBUG] Spawn request. (Objects: 1)
+2018-10-01 19:08:26.3561 [DEBUG] Spawn request. (Objects: 1)
+2018-10-01 19:13:30.9297 [DEBUG] Disconnecting from room (82827:SceneFusion:SceneFusion)
+2018-10-01 19:13:30.9367 [INFO] Disconnected from server.
+2018-10-01 19:13:30.9367 [DEBUG] Disconnect. (Duration: 1149)
