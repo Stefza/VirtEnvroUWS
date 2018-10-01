@@ -24,3 +24,6 @@
 2018-10-01 20:17:31.1476 [INFO] Launching Session: SampleScene
 2018-10-01 20:17:32.4718 [DEBUG] Connecting
 2018-10-01 20:17:32.4938 [DEBUG] Connecting to room (82838:SceneFusion:SceneFusion) via TCP at ec2-52-43-42-38.us-west-2.compute.amazonaws.com:1037
+2018-10-01 20:29:32.1788 [DEBUG] Sent C:/Users/Stefa/Documents/GitHub/VirtEnvroUWS/Virtual World/KSEditorLogs/SessionLogs/session.82838-636740218525018283.log
+2018-10-01 20:29:55.8934 [DEBUG] Scene Fusion version 1.8.1-0
+2018-10-01 20:30:03.3429 [DEBUG] Scene Fusion version 1.8.1-0
